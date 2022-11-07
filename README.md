@@ -1,5 +1,4 @@
-<h1 align="center">Ello there, I'm koki10190</h1>
-<h3 align="center">Dumbass programmer that likes to make stuff from scratch</h3>
+<h1 align="center">Dumbass programmer that likes to make stuff from scratch</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koki1019&label=Profile%20views&color=0e75b6&style=flat" alt="koki1019" /> </p>
 
