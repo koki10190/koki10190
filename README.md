@@ -6,10 +6,6 @@
 
 - I’m currently working on [Vault Engine](https://github.com/koki10190/Vault-Engine)
 
-- I also work on [Mario FNF Port](https://gamebanana.com/mods/386408)
-
-- Bad joke: **Why do java developers wear glasses? Because they don't see sharp**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/koki10180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koki10180" height="30" width="40" /></a>
