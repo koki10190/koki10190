@@ -35,7 +35,7 @@ Yo! I'm Luka Odzelashvili, I'm a software engineer from Georgia & Ireland. I'm c
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenGL-990000?logo=opengl&logoColor=white&style=for-the-badge">
 </div>
 </p>
 
