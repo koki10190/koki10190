@@ -68,5 +68,3 @@ int main(int argc, char **argv) {
   </a>
 </p>
 <br>
-
-[![Luka's Activity Graph](https://activity-graph.herokuapp.com/graph?username=koki10190&custom_title=Luka's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/koki10190)
