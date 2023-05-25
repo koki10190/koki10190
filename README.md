@@ -52,8 +52,7 @@ struct koki1019 {
 int main(int argc, char **argv) {
     koki1019 me;
     show_user_detail(&me);
-    delete me;
-
+    
     return 0;
 }
 ```
