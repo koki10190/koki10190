@@ -2,8 +2,8 @@
   <b>Luka Odzelashvili</b>
 </h1>
 
-Yo! I'm Luka Odzelashvili, I'm a software engineer from Georgia & Ireland. I'm currently learning about Assembly x86
-
+<p align="center">Yo! I'm Luka Odzelashvili, I'm a software engineer from Georgia & Ireland. I'm currently learning about Assembly x86
+</p>
 <br>
 
 <p>
