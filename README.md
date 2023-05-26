@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./me_pc.png" width="556px">
+  <img src="./me_pc.png" width="756px">
 </h1>
 
 <p align="center">Yo! I'm Luka Odzelashvili, I'm a software engineer from Georgia & Ireland. I'm currently learning about Assembly x86
