@@ -63,7 +63,7 @@ int main(int argc, char **argv) {
 <p align="left">
   <a href="https://github.com/koki10190">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=koki10190&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=koki10190&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koki10190&layout=donut&theme=tokyonight" />
   </a>
 </p>
 <br>
