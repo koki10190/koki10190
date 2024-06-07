@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <h2>Operating Systems I Use</h2>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
@@ -34,25 +33,6 @@
 <img src="https://img.shields.io/badge/OpenGL-038cfc?logo=opengl&logoColor=white&style=for-the-badge">
 </div>
 </p>
-
-```cpp
-#include <iostream>
-#include <string>
-
-struct koki1019 {
-    std::string name = "Luka Odzelashvili";
-    std::string username = "koki1019";
-    std::string location = "Ireland";
-    std::string main_project = "https://github.com/Vault-Software-Team/Vault-Engine"
-};
-
-int main(int argc, char **argv) {
-    koki1019 me;
-    show_user_detail(&me);
-    
-    return 0;
-}
-```
 
 ## My Statistics
 
