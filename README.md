@@ -2,7 +2,7 @@
   <img src="./me_pc.png">
 </h1>
 
-<p align="center">i just make shit [Check out the artist they're cool](https://x.com/phicicle)
+<p align="center">i just make shit <a href="https://x.com/phicicle">(check out the artist)</a>
 </p>
 <br>
 
